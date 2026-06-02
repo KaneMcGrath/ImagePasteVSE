@@ -1,0 +1,11 @@
+schema_version = "1.0.0"
+id = "PasteImageVSE"
+version = "1.0.0"
+name = "PasteImageVSE"
+tagline = "Paste images from clipboard into the Video Sequence Editor"
+author = "PasteImageVSE"
+blender_version_min = "4.0.0"
+license = ["GPL-3.0-or-later"]
+copyright = ["PasteImageVSE"]
+
+# Per-platform wheel / binary dependencies (none needed)
