@@ -1,11 +1,11 @@
 schema_version = "1.0.0"
-id = "PasteImageVSE"
+id = "ImagePasteVSE"
 version = "1.0.0"
-name = "PasteImageVSE"
+name = "ImagePasteVSE"
 tagline = "Paste images from clipboard into the Video Sequence Editor"
-author = "PasteImageVSE"
+author = "KaneMcGrath"
 blender_version_min = "4.0.0"
 license = ["GPL-3.0-or-later"]
-copyright = ["PasteImageVSE"]
+copyright = ["KaneMcGrath"]
 
 # Per-platform wheel / binary dependencies (none needed)
