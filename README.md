@@ -5,3 +5,4 @@ In the video sequence editor there will be Add > Image from Clipboard
 ![Screenshot](https://github.com/KaneMcGrath/ImagePasteVSE/blob/Screenshots/Screencap.png?raw=true)
 
 Very simple addon generated with pi and deepseek-v4-flash
+with clipboard code copied from BagaPaste https://extensions.blender.org/add-ons/bagapaste/
